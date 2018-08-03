@@ -12,6 +12,7 @@ def prime?(num)
     
     break
   end
- x = x + 1
+ x += 1
+ end
  end
  
