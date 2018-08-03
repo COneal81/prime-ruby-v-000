@@ -13,5 +13,5 @@ def prime?(num)
     break
   end
  x = x + 1
- 
-end
+ end
+ end
