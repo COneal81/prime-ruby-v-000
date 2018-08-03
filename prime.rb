@@ -1,7 +1,11 @@
 def prime?(num)
-  i = 0
-  prime_flag = TRUE
-  
+  i = 2
+  if while i <= num/2
+    return TRUE
+else
+  return FALSE
+end 
+
   x = 2 
   
   while (x <= num / 2)
