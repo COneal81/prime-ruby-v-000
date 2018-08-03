@@ -5,7 +5,8 @@ def prime?(num)
 else
   return FALSE
 end 
-
+i+=1
+end
   x = 2 
   
   while (x <= num / 2)
