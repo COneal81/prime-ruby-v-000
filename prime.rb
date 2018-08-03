@@ -1,2 +1,8 @@
 def prime?(num)
-  num prime.each do |numbers|
+  if num prime.each(2) do |numbers|
+    return TRUE
+  else
+    return FALSE
+  end
+end
+end
