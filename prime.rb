@@ -15,4 +15,5 @@ def prime?(num)
  x += 1
  end
  end
+ end
  
