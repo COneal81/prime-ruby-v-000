@@ -1,7 +1,5 @@
 def prime?(num)
-  num = gets.to_i
-  last = gets.to_i
- while (num <= last)
+  i = 0
   prime_flag = TRUE
   
   x = 2 
