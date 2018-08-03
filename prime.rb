@@ -1,5 +1,5 @@
 def prime?(num)
-  if num.each(2) do |numbers|
+  if num.each do |numbers|
     return TRUE
   end
 end
