@@ -4,7 +4,7 @@ def prime?(num)
     return TRUE
   else
     return FALSE
-end 
+  end 
 i+=1
 end
 end
