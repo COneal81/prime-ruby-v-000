@@ -1,7 +1,3 @@
 def prime?(num)
-  if num.prime? do |numbers| 
-    num
-    return TRUE
-  end
-end
-end
+  return false if num < 2 
+  (2..Math.sqrt(num)).each do |number|
