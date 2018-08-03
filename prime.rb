@@ -6,7 +6,8 @@ def prime?(num)
   
   x = 2 
   
-  while
+  while (x <= num / 2)
+  
  
   if num == prime?
     return TRUE
