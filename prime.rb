@@ -1,5 +1,5 @@
 def prime?(num)
-  if num.prime?(2) do |numbers|
+  if num.prime? do |numbers| num
     return TRUE
   end
 end
