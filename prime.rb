@@ -1,10 +1,9 @@
 def prime?(num)
-  i = 2
-  if while i <= num/2
+  i = 0
+  if while i <= num.length
     return TRUE
-  end
   else
-  return FALSE
+    return FALSE
 end 
 i+=1
 end
